@@ -39,7 +39,7 @@ A complete end-to-end project on NLP basics with custom preprocessing, vector st
 ### 🎯 Local Code Pilot
 A real time multi model codeing agent that runs locally on you system , enabling complete privacy and custom results.
 
-🔗 [View Project](https://github.com/suhas1403/MultiModelLocalAgent.git)
+🔗 [View Project](https://github.com/suhas1403/LocalCodePilot.git)
 
 ---
 
