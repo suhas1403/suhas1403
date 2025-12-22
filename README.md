@@ -36,10 +36,10 @@ A complete end-to-end project on NLP basics with custom preprocessing, vector st
 
 ---
 
-### 🎯 Object Trajectory Predictor
-A real-time computer vision project that tracks and predicts the motion of objects using OpenCV and deep learning.
+### 🎯 Local Code Pilot
+A real time multi model codeing agent that runs locally on you system , enabling complete privacy and custom results.
 
-🚧 (In Progress)
+🔗 [View Project](https://github.com/suhas1403/MultiModelLocalAgent.git)
 
 ---
 
